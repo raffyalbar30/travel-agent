@@ -1,0 +1,19 @@
+{
+  "name": "slicing-agent-travel",
+  "version": "1.0.0",
+  "description": "slicing web design travel agent",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raffyalbar30/travel-agent.git"
+  },
+  "author": "Raffy Albar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raffyalbar30/travel-agent/issues"
+  },
+  "homepage": "https://github.com/raffyalbar30/travel-agent#readme"
+}
